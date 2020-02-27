@@ -1,0 +1,52 @@
+.container  { 
+	display:table; 
+	 position: absolute; 
+	 top: 100px; 
+	 left: 100px;
+} 
+.row { 
+	display:table-row; 
+} 
+
+.image-cell {
+	display:table-cell;
+	cursor: pointer;
+}
+
+.text-cell {
+	display:table-cell;
+	vertical-align:middle;
+}
+
+.col { 
+	display:table-column; 
+} 
+.smallImage {
+	 height: 100px;
+ 	 width: 100px;
+ 	 border-style: outset;
+ 	 cursor: pointer;
+}
+
+.bigImage {
+	 height: 606px;
+ 	 width: 606px;
+ 	 border-style: outset;
+ 	 cursor: pointer;
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+         	

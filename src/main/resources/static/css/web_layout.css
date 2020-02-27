@@ -1,0 +1,45 @@
+img{
+  width:48px;
+  margin:-5px;
+  float:left;
+}
+#buttons, #songInfo{
+  
+  padding:5px;
+  
+
+  border:8px ridge blue;
+  border:radius 5px;
+}
+#songInfo{
+  background-color: black;
+ 
+  height:150px;width:300px;
+  z-index:1;
+}
+#buttons{
+  background-color: white;
+ height:50;
+  z-index:2;
+}
+#artist{
+  color:cyan;
+  font-size:25px;
+  position:relative;
+  left:30px;
+  top:-50px;
+}
+#title{
+  color:lime;
+  font-size:15px;
+  position:relative;
+  left:30px;
+  top:25px;
+}
+#year{
+  color:yellow;
+  font-size:15px;
+  position:relative;
+  left:30px;
+  top:-40px;
+}
