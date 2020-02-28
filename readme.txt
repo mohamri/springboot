@@ -2,4 +2,4 @@
 2- Build a GUI with Angular to display all of these products.
 3- Let's add security enhancements.
 4- Perform model changes.
-5- Perform gui changes
+5- Perform gui extraordinary changes
